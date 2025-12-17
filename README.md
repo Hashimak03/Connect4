@@ -1,4 +1,4 @@
-Connect 4 – JavaFX Client/Server Application
+## Connect 4 – JavaFX Client/Server Application
 
 This project is a networked Connect 4 game written in Java. It uses JavaFX for the graphical user interface and follows a client–server model so that two players can connect and play against each other over the network.
 
